@@ -15,7 +15,7 @@ description:
 homepage:           https://github.com/data61/aviation-cessna172-weight-balance
 bug-reports:        https://github.com/data61/aviation-cessna172-weight-balance/issues
 cabal-version:      >= 1.10
-build-type:         Custom
+build-type:         Simple
 extra-source-files: changelog
 
 source-repository   head
