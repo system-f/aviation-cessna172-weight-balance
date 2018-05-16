@@ -19,15 +19,15 @@ let
     aviation-units = pkgs.fetchFromGitHub {
       owner = "data61";
       repo = "aviation-units";
-      rev = "c67a8ed7af0218316a308abbbfa804b896319956";
-      sha256 = "0jhhc4q2p7kg07bl7hk0571rp8k5qg02mgnfy0cm51hj5fd2lihx";
+      rev = "aee9b5c37946acfa28dc8ce96bf71643e01f28c7";
+      sha256 = "0kyqn2mn5yvjngqzapqgidvpj5r664i5afkbj0di0hp2nj7f58ac";
     };
 
     aviation-weight-balance = pkgs.fetchFromGitHub {
       owner = "data61";
       repo = "aviation-weight-balance";
-      rev = "04f2d82df78d3981539470988124bdfe5454884c";
-      sha256 = "1s2ncg4k07i9wriq7qr5vjzmagyzjz1mcscwdi99f450bvmlc8nh";
+      rev = "00c65b36ff350b6577bf0f815bd902f820a4bbf0";
+      sha256 = "0sxz247qwjmmkpwjc5221jsph3vbcpgjf93sdcqnnk7r8hlbxj9h";
     };
 
   };
