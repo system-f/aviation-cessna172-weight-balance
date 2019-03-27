@@ -1,7 +1,7 @@
 name:               aviation-cessna172-weight-balance
 version:            0.0.1
-license:            OtherLicense
-license-file:       LICENSE
+license:            BSD3
+license-file:       LICENCE
 author:             Tony Morris <ʇǝu˙sıɹɹoɯʇ@ןןǝʞsɐɥ>, Joshua Morris <ɯoɔ˙lᴉɐɯƃ@llǝʞsɐɥ+sᴉɹɹoɯuɥoɾɐnɥsoɾ>
 maintainer:         Tony Morris, Joshua Morris
 copyright:          Copyright (c) 2017, Commonwealth Scientific and Industrial Research Organisation (CSIRO) ABN 41 687 119 230.
