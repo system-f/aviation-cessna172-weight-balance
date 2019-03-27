@@ -35,10 +35,6 @@ library
   ghc-options:
                     -Wall
 
-  default-extensions:
-  
-                    NoImplicitPrelude
-
   hs-source-dirs:
                     src
 
