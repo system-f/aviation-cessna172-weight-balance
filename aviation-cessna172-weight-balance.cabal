@@ -27,10 +27,10 @@ library
                     Haskell2010
 
   build-depends:
-                    base >= 4.8 && < 5
-                    , lens >= 4.15 && < 5
-                    , aviation-units >= 0.0.1 && < 1
-                    , aviation-weight-balance >= 0.0.1 && < 1
+                    base >= 4.8 && < 4.13
+                    , lens >= 4.15 && < 4.18
+                    , aviation-units >= 0.0.1 && < 0.1
+                    , aviation-weight-balance >= 0.0.1 && < 0.1
                     
   ghc-options:
                     -Wall
