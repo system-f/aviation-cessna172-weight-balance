@@ -1,0 +1,6 @@
+[submodule "deps/aviation-weight-balance"]
+	path = deps/aviation-weight-balance
+	url = ../aviation-weight-balance.git
+[submodule "deps/aviation-units"]
+	path = deps/aviation-units
+	url = ../aviation-units.git
